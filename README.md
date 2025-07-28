@@ -14,20 +14,14 @@ A simple web-based blockchain simulator built with Flask (Python) and Bootstrap.
 
 ```
 /blockchain_simulator
-    /static
-        /css
-        /js
-        /images
     /templates
+     /index.html
     app.py
-    blockchain.py
     README.md
 ```
 
-- **/static:** Contains static files like CSS, JavaScript, and images.
 - **/templates:** Contains HTML templates for rendering the web pages.
 - **app.py:** The main Flask application file.
-- **blockchain.py:** Contains the Blockchain and Block classes.
 - **README.md:** This documentation file.
 
 ## Technologies Used
